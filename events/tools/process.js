@@ -1,0 +1,7 @@
+console.log(`Nome do Arquivo: `,__filename)
+console.log(`Diretorio: `,__dirname)
+console.log(`parametros do arquivo: `,)
+console.log(`Parametros de exec: `,process.argv)
+console.log(process.argv[2]== '-a')
+console.log(`Ambiente do servidor: `,process.plataform)
+console.log(`Xablau: `,)
